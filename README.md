@@ -12,7 +12,7 @@ git remote add origin link // map code trên máy và link trên github
 
 ## -------------------------------------------------------------
 
-git pull // update code về
+git pull // update code về á
 
 git checkout -b + tên nhánh // tạo nhánh mới
 git checkout + tên nhánh // chuyển nhánh
