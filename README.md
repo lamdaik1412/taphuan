@@ -1,6 +1,6 @@
 ## ------------------------------------------------------------
 
-git init // tạo repo mới
+git init // tạo repo mới trên máy
 git clone + link // chép code từ link về máy
 
 git add + tên file // hoặc

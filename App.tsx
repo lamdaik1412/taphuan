@@ -6,20 +6,8 @@ import { ThemeProvider } from 'react-native-elements'
 import * as Notifications from 'expo-notifications';
 import HomeScreen from './src/screens/HomeScreen'
 
-Notifications.setNotificationHandler({
-  handleNotification: async () => ({
-    shouldShowAlert: true,
-    shouldPlaySound: false,
-    shouldSetBadge: false,
-  }),
-});
-Notifications.setNotificationHandler({
-  handleNotification: async () => ({
-    shouldShowAlert: true,
-    shouldPlaySound: false,
-    shouldSetBadge: false,
-  }),
-});
+
+
 
 export default function App() {
   return (
