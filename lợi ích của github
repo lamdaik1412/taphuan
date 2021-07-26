@@ -4,3 +4,9 @@
 4. Git cho phép chúng ta làm việc offline
 5. Cách lưu trữ thông tin
 6. Git miễn phí
+
+
+Source control giúp cho chúng ta dễ dàng quản lý source code hơn, như là:
+– Xem lại file code đã thêm/xóa/sửa dòng nào
+– Biết ai đã sửa để quy trách nhiệm 😀
+– Biết được các version phần mềm đã có lịch sử thêm bớt tính năng gì
